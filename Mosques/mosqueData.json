@@ -1,0 +1,92 @@
+[[
+    {
+        "name": "East London Mosque",
+        "category": "Mosques",
+        "city": "London",
+        "state": "Greater London",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -0.0520,
+            "latitude": 51.5150
+        },
+        "description": "The East London Mosque is one of the largest mosques in the UK, serving as a center for religious, social, and cultural activities. It is located in the heart of London's East End and welcomes thousands of worshippers daily.",
+        "imageName": "eastlondonmosque"
+    },
+    {
+        "name": "Birmingham Central Mosque",
+        "category": "Mosques",
+        "city": "Birmingham",
+        "state": "West Midlands",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -1.8973,
+            "latitude": 52.4763
+        },
+        "description": "Birmingham Central Mosque is one of the largest mosques in the UK and a key landmark in the Birmingham Muslim community. The mosque hosts regular prayers, educational programs, and community outreach events.",
+        "imageName": "birminghamcentralmosque"
+    },
+    {
+        "name": "Finsbury Park Mosque",
+        "category": "Mosques",
+        "city": "London",
+        "state": "Greater London",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -0.1023,
+            "latitude": 51.5704
+        },
+        "description": "Finsbury Park Mosque, located in North London, is an iconic mosque known for its diverse community and wide range of educational and social programs. It also plays a significant role in interfaith dialogue.",
+        "imageName": "finsburyparkmosque"
+    },
+    {
+        "name": "The Manchester Central Mosque",
+        "category": "Mosques",
+        "city": "Manchester",
+        "state": "Greater Manchester",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -2.2400,
+            "latitude": 53.4771
+        },
+        "description": "Manchester Central Mosque serves as a focal point for the city's Muslim community. It hosts daily prayers and provides services for education, charity, and social development.",
+        "imageName": "manchestercentralmosque"
+    },
+    {
+        "name": "Nottingham Central Mosque",
+        "category": "Mosques",
+        "city": "Nottingham",
+        "state": "Nottinghamshire",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -1.1673,
+            "latitude": 52.9548
+        },
+        "description": "Nottingham Central Mosque is a vibrant mosque serving the local Muslim community in Nottingham. The mosque provides a range of religious services, including daily prayers, educational programs, and charity work.",
+        "imageName": "nottinghamcentralmosque"
+    },
+    {
+        "name": "Leeds Grand Mosque",
+        "category": "Mosques",
+        "city": "Leeds",
+        "state": "West Yorkshire",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -1.5435,
+            "latitude": 53.8040
+        },
+        "description": "Leeds Grand Mosque is the largest mosque in Leeds and one of the largest in the UK. It plays a significant role in the local community, providing worship services, educational programs, and social activities.",
+        "imageName": "leedsgrandmosque"
+    }
+]
