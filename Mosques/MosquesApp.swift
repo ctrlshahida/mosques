@@ -1,10 +1,3 @@
-//
-//  MosquesApp.swift
-//  Mosques
-//
-//  Created by شهيدا on 12/03/2025.
-//
-
 import SwiftUI
 
 @main
